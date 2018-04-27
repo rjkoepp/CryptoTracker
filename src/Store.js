@@ -1,3 +1,4 @@
+//detects the platform in which the app is running.
 import {Platform} from 'react-native';
 import {
     createStore,
