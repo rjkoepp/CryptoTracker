@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { View, Text, ScrollView, StyleSheet } from 'react-native';
+
+// npm i --save react-native-loading-spinner-overlay
 import Spinner from 'react-native-loading-spinner-overlay';
 
 import FetchCoinData from './../Actions/FetchCoinData';

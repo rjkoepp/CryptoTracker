@@ -95,23 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoinIcons.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CoinIcons.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Utils/CoinIcons.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CryptoContainer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/CryptoContainer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -287,12 +275,12 @@
       <workItem from="1524361613610" duration="5920000" />
       <workItem from="1524687662256" duration="1435000" />
       <workItem from="1524792875252" duration="10742000" />
-      <workItem from="1525151200295" duration="671000" />
+      <workItem from="1525151200295" duration="827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18768000" />
+    <option name="totallyTimeSpent" value="18924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="840" y="22" width="840" height="1028" extended-state="0" />
@@ -442,6 +430,7 @@
           <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#152#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -493,6 +482,7 @@
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#152#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -537,6 +527,7 @@
           <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#152#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -633,13 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/CoinIcons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CoinCard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="695">
@@ -649,11 +633,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CryptoContainer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="51">
+          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#152#211#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils/CoinIcons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
         </state>
       </provider>
     </entry>
