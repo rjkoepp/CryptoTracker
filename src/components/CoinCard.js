@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
         marginLeft: 5,
         marginRight: 20
     },
-    seperator: {
+    separator: {
         marginTop: 10,
     },
     coinPrice: {
