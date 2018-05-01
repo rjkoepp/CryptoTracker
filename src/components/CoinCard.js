@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
     separator: {
         marginTop: 10,
     },
-    coinPrice: {
+    moneySymbol: {
         marginTop: 10,
         marginLeft: "auto",
         marginRight: 10,
@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
         width: 35,
         height: 35,
     },
-    moneySymbol: {
+    coinPrice: {
         fontWeight: "bold",
     },
     statisticsContainer: {
@@ -76,7 +76,7 @@ const {
     coinName,
     coinPrice,
     statisticsContainer,
-    seperator,
+    separator,
     percentChangePlus,
     percentChangeMinus
 } = styles;
@@ -96,10 +96,9 @@ const CoinCard = ({ symbol, coin_name, price_usd, percent_change_24h, percent_ch
                     source={{ uri: images[symbol] }}
                 />
                 <Text style={coinSymbol}>{symbol}</Text>
-                <Text style={seperator}>|</Text>
+                <Text style={separator}>|</Text>
                 <Text style={coinName}>{coin_name}</Text>
-                <Text style={coinPrice}>{price_usd}
-                    <Text style={moneySymbol}> $ </Text>
+                <Text style={moneySymbol}> $ <Text style={coinPrice}>{price_usd} </Text>
                 </Text>
             </View>
 

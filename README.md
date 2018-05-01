@@ -1,3 +1,30 @@
+## *CrypotCurrency Tracker*
+
+A mobile tool one can use to track the status of current cryptocurrencies. 
+My first project with React Native. 
+
+## Current Features
+
+- [x] Displays popular cryptocurrencies and their respective price in USD
+- [x] Displays the change over the past 24 hours and 7 days
+- [x] Information is pulled from CoinMarketCap *https://api.coinmarketcap.com*
+
+## Future Plans
+
+Holding crypotcurrency myself, I hope to add the following features:
+
+- [] Settings page where additional features can be toggled. 
+- [] What app is complete without a night mode?
+- [] Each cryptocurrency card can be expanded for additional information.
+- [] Star / reorder favorite coins.
+
+## Video Walkthrough
+
+
+<img src='CryptoAppGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Thanks, Indrek!
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
